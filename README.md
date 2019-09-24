@@ -1,5 +1,10 @@
 # Testes de Software
-Aplicativo referente ao curso técnico de informatica.
+Aplicativo referente ao curso técnico de informática.
+
+
+
+
+
 
 
 
